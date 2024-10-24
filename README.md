@@ -1,4 +1,4 @@
-# aicommit自动生成git commit 的内容。
+# aicommit自动生成git commit 的内容
 
 ## 输入获取
 ```
